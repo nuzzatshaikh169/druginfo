@@ -281,55 +281,55 @@ category:"Allergy"
 
 {
 name:"Chlorpheniramine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"4 mg every 4–6 hours",
+uses:"relief of allergic conditions",
+sideEffects:"Drowsiness (very common)",
+precautions:"Avoid alcohol (increases sedation)",
 category:"Allergy"
 },
 
 {
 name:"Montelukast",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"10 mg once daily",
+uses:"Bronchial asthma",
+sideEffects:"Abdominal pain,cough",
+precautions:"Not for acute asthma attack emergencies",
 category:"Allergy"
 },
 
 {
 name:"Clarithromycin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"250 mg every 12 hours",
+uses:"to treat various bacterial infections",
+sideEffects:"Nausea,vomiting",
+precautions:"Avoid self-medication with antibiotics",
 category:"Antibiotics"
 },
 
 {
 name:"Cefixime",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"200 mg every 12 hours",
+uses:"Respiratory tract infections",
+sideEffects:"Diarrhea,stomach pain",
+precautions:"Avoid if allergic to cephalosporins or penicillins",
 category:"Antibiotics"
 },
 
 {
 name:"Ceftriaxone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1–2 g once daily",
+uses:"Lower respiratory tract infections (pneumonia, bronchitis)",
+sideEffects:"Pain at injection site",
+precautions:"Avoid in patients with severe allergy to cephalosporins or penicillins",
 category:"Antibiotics"
 },
 
 {
 name:"Levofloxacin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"250 mg once daily",
+uses:"Urinary tract infections",
+sideEffects:"Diarrhea,headache",
+precautions:"Do not take with antacids, iron, or calcium simultaneously",
 category:"Antibiotics"
 },
 
