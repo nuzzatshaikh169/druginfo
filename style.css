@@ -1,1 +1,278 @@
 
+:root {
+  --bg: #f7f3ee;
+  --surface: #ffffff;
+  --border: #e2d9ce;
+  --text: #1a1410;
+  --muted: #7a6e65;
+  --accent: #c0392b;
+  --accent-light: #fdf0ef;
+  --tag-bg: #f0ebe4;
+  --shadow: 0 2px 20px rgba(26,20,16,0.08);
+  --shadow-hover: 0 8px 40px rgba(26,20,16,0.14);
+}
+
+*,*::before,*::after{
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+
+body{
+font-family:'DM Sans',sans-serif;
+background:var(--bg);
+color:var(--text);
+min-height:100vh;
+}
+
+/* HEADER */
+
+header{
+background:var(--text);
+color:var(--bg);
+padding:18px 40px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+}
+
+.logo{
+font-family:'DM Serif Display',serif;
+font-size:1.5rem;
+}
+
+.logo span{
+color:var(--accent);
+}
+
+.badge{
+font-family:'DM Mono',monospace;
+font-size:0.68rem;
+background:rgba(255,255,255,0.12);
+padding:4px 10px;
+border-radius:20px;
+}
+
+/* HERO */
+
+.hero{
+text-align:center;
+padding:60px 20px 40px;
+}
+
+.hero h1{
+font-family:'DM Serif Display',serif;
+font-size:3rem;
+margin-bottom:10px;
+}
+
+.hero p{
+color:var(--muted);
+margin-bottom:30px;
+}
+
+/* SEARCH */
+
+.search-wrap{
+max-width:560px;
+margin:auto;
+position:relative;
+}
+
+.search-wrap input{
+width:100%;
+padding:16px 60px 16px 22px;
+border:2px solid var(--border);
+border-radius:50px;
+font-size:1rem;
+outline:none;
+}
+
+.search-wrap input:focus{
+border-color:var(--accent);
+}
+
+.search-btn{
+position:absolute;
+right:8px;
+top:50%;
+transform:translateY(-50%);
+background:var(--accent);
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:50px;
+cursor:pointer;
+}
+
+.search-btn:hover{
+background:#a93226;
+}
+
+/* SUGGESTIONS */
+
+.suggestions{
+position:absolute;
+top:calc(100% + 6px);
+left:0;
+right:0;
+background:white;
+border-radius:16px;
+display:none;
+box-shadow:var(--shadow-hover);
+z-index:100;
+}
+
+.suggestions.active{
+display:block;
+}
+
+.suggestion-item{
+padding:12px 20px;
+cursor:pointer;
+}
+
+.suggestion-item:hover{
+background:var(--accent-light);
+}
+
+/* MAIN */
+
+main{
+max-width:900px;
+margin:auto;
+padding:20px;
+}
+
+.stats-bar{
+display:flex;
+gap:10px;
+margin-bottom:20px;
+flex-wrap:wrap;
+}
+
+.stat-chip{
+background:white;
+padding:6px 14px;
+border-radius:20px;
+border:1px solid var(--border);
+font-size:0.8rem;
+}
+
+.section-title{
+font-family:'DM Serif Display',serif;
+font-size:1.5rem;
+margin-bottom:20px;
+}
+
+.filters{
+display:flex;
+gap:10px;
+flex-wrap:wrap;
+margin-bottom:20px;
+}
+
+.filter-btn{
+padding:8px 16px;
+border-radius:20px;
+border:1px solid var(--border);
+background:white;
+cursor:pointer;
+}
+
+.filter-btn:hover,
+.filter-btn.active{
+background:var(--text);
+color:white;
+}
+
+.drug-grid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(170px,1fr));
+gap:10px;
+}
+
+.drug-pill{
+background:white;
+padding:15px;
+border-radius:12px;
+border:1px solid var(--border);
+cursor:pointer;
+transition:0.3s;
+}
+
+.drug-pill:hover{
+transform:translateY(-3px);
+box-shadow:var(--shadow);
+}
+
+.pill-use{
+font-size:0.7rem;
+color:var(--muted);
+margin-top:4px;
+}
+
+/* CARD */
+
+.drug-card{
+background:white;
+border-radius:20px;
+overflow:hidden;
+box-shadow:var(--shadow);
+margin-bottom:20px;
+}
+
+.card-header{
+background:var(--text);
+color:white;
+padding:25px;
+display:flex;
+justify-content:space-between;
+}
+
+.drug-name{
+font-family:'DM Serif Display',serif;
+font-size:2rem;
+}
+
+.card-body{
+display:grid;
+grid-template-columns:1fr 1fr;
+}
+
+.card-field{
+padding:25px;
+border:1px solid var(--border);
+}
+
+.field-label{
+font-size:0.8rem;
+color:var(--muted);
+margin-bottom:8px;
+font-weight:bold;
+}
+
+/* FOOTER */
+
+footer{
+text-align:center;
+padding:30px;
+font-size:0.8rem;
+color:var(--muted);
+}
+
+@media(max-width:600px){
+
+header{
+padding:14px 20px;
+}
+
+.card-body{
+grid-template-columns:1fr;
+}
+
+.hero h1{
+font-size:2rem;
+}
+
+}
