@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MedRef — Drug Reference</title>
 
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="logo">Med<span>Ref</span></div>
+  <span class="badge">42 drugs · reference only</span>
+</header>
+
+<div class="hero">
+  <h1>Drug Reference</h1>
+  <p>Dosage · Uses · Side Effects · Precautions</p>
+
+  <div class="search-wrap">
+    <input type="text" id="searchInput"
+      placeholder="Search a drug… e.g. Ibuprofen"
+      autocomplete="off"/>
+
+    <button class="search-btn"
+      onclick="searchDrug()">
+      Search
+    </button>
+
+    <div class="suggestions" id="suggestions"></div>
+  </div>
+</div>
+
+<main>
+
+<div class="stats-bar" id="statsBar"></div>
+
+<div id="result"></div>
+
+<div class="divider"></div>
+
+<div class="section-title">
+Browse All Drugs
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div class="drug-grid" id="drugGrid"></div>
+
+</main>
+
+<footer>
+⚠️ For educational reference only.
+Always consult a qualified healthcare professional.
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
