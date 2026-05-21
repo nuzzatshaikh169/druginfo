@@ -227,55 +227,55 @@ category:"Supplements"
 
 {
 name:"Piroxicam",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"10–20 mg daily",
+uses:"Osteoarthritis",
+sideEffects:"stomach pain/acidity",
+precautions:"Avoid in peptic ulcer",
 category:"Pain Relief"
 },
 
 {
 name:"Naproxen",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"250–500 mg twice daily",
+uses:"Arthritis",
+sideEffects:"Indigestion,Heartburn",
+precautions:"Caution in kidney, liver, or heart disease",
 category:"Pain Relief"
 },
 
 {
 name:"Meloxicam",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"7.5 mg once daily",
+uses:"Inflammatory joint conditions",
+sideEffects:"Nausea,dizziness",
+precautions:"Avoid in NSAID-sensitive asthma",
 category:"Pain Relief"
 },
 
 {
 name:"Ketorolac",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"10 mg every 4–6 hours",
+uses:"Short-term severe pain (post-surgery)",
+sideEffects:"Headache,indigestion",
+precautions:"Avoid in bleeding disorders",
 category:"Pain Relief"
 },
 
 {
 name:"Codeine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"15–60 mg every 4–6 hours",
+uses:"Dry cough suppression",
+sideEffects:"Drowsiness / sedation",
+precautions:"Avoid in severe asthma or breathing problems",
 category:"Pain Relief"
 },
 
 {
 name:"Diphenhydramine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"25–50 mg every 4–6 hours",
+uses:"Allergic conditions (rhinitis, urticaria, itching)",
+sideEffects:"Dry mouth, dry eyes",
+precautions:"Avoid alcohol and sedatives",
 category:"Allergy"
 },
 
