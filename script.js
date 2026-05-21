@@ -1,4 +1,5 @@
 const drugs = [
+
 {
 name:"Paracetamol",
 dosage:"500–650 mg every 4–6 hrs",
@@ -7,6 +8,16 @@ sideEffects:"Nausea, rash",
 precautions:"Avoid overdose in liver disease",
 category:"Pain Relief"
 },
+
+{
+name:"Pantoprazole",
+dosage:"40 mg daily",
+uses:"Acid reflux",
+sideEffects:"Nausea, dizziness",
+precautions:"Avoid unnecessary long-term use",
+category:"GI"
+},
+
 {
 name:"Ibuprofen",
 dosage:"200–400 mg every 6–8 hrs",
@@ -15,6 +26,7 @@ sideEffects:"Gastric irritation",
 precautions:"Avoid in ulcers and kidney disease",
 category:"Pain Relief"
 },
+
 {
 name:"Cetirizine",
 dosage:"10 mg daily",
@@ -23,6 +35,7 @@ sideEffects:"Drowsiness, dry mouth",
 precautions:"Avoid alcohol while taking",
 category:"Allergy"
 },
+
 {
 name:"Amoxicillin",
 dosage:"250–500 mg three times daily",
@@ -31,6 +44,7 @@ sideEffects:"Rash, diarrhea",
 precautions:"Complete full course",
 category:"Antibiotics"
 },
+
 {
 name:"Metformin",
 dosage:"500–1000 mg twice daily",
@@ -39,6 +53,7 @@ sideEffects:"Diarrhea, nausea",
 precautions:"Avoid in severe kidney disease",
 category:"Diabetes"
 },
+
 {
 name:"Amlodipine",
 dosage:"5–10 mg daily",
@@ -47,6 +62,7 @@ sideEffects:"Swelling, dizziness",
 precautions:"Monitor blood pressure",
 category:"Heart / BP"
 }
+
 ];
 
 let activeFilter="All";
@@ -58,18 +74,23 @@ function renderStats(){
 const bar=document.getElementById("statsBar");
 
 const categories=[
-...new Set(
-drugs.map(d=>d.category)
-)
+...new Set(drugs.map(d=>d.category))
 ].length;
 
 bar.innerHTML=`
-<span class="stat-chip">${drugs.length} drugs</span>
-<span class="stat-chip">${categories} categories</span>
-<span class="stat-chip">reference only</span>
+
+<span class="stat-chip">
+${drugs.length} drugs
+</span>
+
+<span class="stat-chip">
+${categories} categories
+</span>
+
 `;
 
 }
+
 
 /* FILTERS */
 
@@ -77,9 +98,7 @@ function renderFilters(){
 
 const categories=[
 "All",
-...new Set(
-drugs.map(d=>d.category)
-)
+...new Set(drugs.map(d=>d.category))
 ];
 
 const container=
@@ -87,13 +106,15 @@ document.getElementById("filters");
 
 container.innerHTML=
 categories.map(cat=>`
+
 <button
-class="filter-btn ${cat===activeFilter?'active':''}"
+class="filter-btn ${cat===activeFilter?"active":""}"
 onclick="setFilter('${cat}')">
 
 ${cat}
 
 </button>
+
 `).join("");
 
 }
@@ -107,6 +128,7 @@ renderFilters();
 renderGrid();
 
 }
+
 
 /* GRID */
 
@@ -142,19 +164,97 @@ ${d.uses}
 
 }
 
-/* SEARCH */
+
+/* LIVE SEARCH + AUTOCOMPLETE */
+
+const searchInput=
+document.getElementById("searchInput");
+
+const suggestions=
+document.getElementById("suggestions");
+
+searchInput.addEventListener(
+"input",
+function(){
+
+const value=
+searchInput.value
+.trim()
+.toLowerCase();
+
+if(value===""){
+
+suggestions.innerHTML="";
+suggestions.classList.remove("active");
+
+return;
+
+}
+
+const matches=
+drugs.filter(d=>
+d.name.toLowerCase()
+.startsWith(value)
+);
+
+if(matches.length===0){
+
+suggestions.innerHTML="";
+suggestions.classList.remove("active");
+
+return;
+
+}
+
+suggestions.innerHTML=
+matches.map(d=>`
+
+<div
+class="suggestion-item"
+onclick="pickSuggestion('${d.name}')">
+
+<strong>${d.name}</strong>
+
+<br>
+
+<small>
+${d.category}
+</small>
+
+</div>
+
+`).join("");
+
+suggestions.classList.add("active");
+
+}
+);
+
+
+function pickSuggestion(name){
+
+searchInput.value=name;
+
+suggestions.classList.remove("active");
+
+showCard(name);
+
+}
+
+
+/* SEARCH BUTTON */
 
 function searchDrug(){
 
-const input=
-document.getElementById("searchInput");
-
 const value=
-input.value.trim().toLowerCase();
+searchInput.value
+.trim()
+.toLowerCase();
 
 const drug=
 drugs.find(
-d=>d.name.toLowerCase()===value
+d=>d.name
+.toLowerCase()===value
 );
 
 if(drug){
@@ -167,11 +267,14 @@ document.getElementById(
 "result"
 ).innerHTML=`
 
-<div style="
+<div
+style="
 text-align:center;
 padding:40px">
 
-<h3>Drug not found</h3>
+<h3>
+Drug not found
+</h3>
 
 </div>
 `;
@@ -179,6 +282,7 @@ padding:40px">
 }
 
 }
+
 
 /* SHOW CARD */
 
@@ -260,9 +364,13 @@ ${drug.precautions}
 </div>
 
 </div>
+
 `;
 
 }
+
+
+/* INITIALIZE */
 
 renderStats();
 
