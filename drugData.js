@@ -409,127 +409,127 @@ category:"GI"
 
 {
 name:"Atenolol",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"25–50 mg once daily",
+uses:"High blood pressure (hypertension)",
+sideEffects:"Slow heartbeat,cold hands and feets",
+precautions:"Monitor blood pressure and pulse regularly",
 category:"Heart / BP"
 },
 
 {
 name:"Bisoprolol",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5 mg once daily",
+uses:"Angina (chest pain)",
+sideEffects:"Headache,Slow heartbeat",
+precautions:"May hide symptoms of low blood sugar in diabetic patients",
 category:"Heart / BP"
 },
 
 {
 name:"Carvedilol",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"6.25 mg twice daily",
+uses:"Certain heart rhythm conditions.",
+sideEffects:"Low blood pressure,Slow heartbeat",
+precautions:"May mask symptoms of low blood sugar",
 category:"Heart / BP"
 },
 
 {
 name:"Valsartan",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"80–160 mg once daily",
+uses:"High blood pressure (hypertension)",
+sideEffects:"Low blood pressure,Increased potassium levels",
+precautions:"Avoid potassium supplements or salt substitutes unless advised",
 category:"Heart / BP"
 },
 
 {
 name:"Hydrochlorothiazide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"12.5–25 mg once daily",
+uses:"Prevention of kidney stones in some patients",
+sideEffects:"Frequent urination,Dizziness,Weakness",
+precautions:"May increase blood sugar and uric acid levels",
 category:"Heart / BP"
 },
 
 {
 name:"Insulin Glargine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"10 units once daily",
+uses:"Type 1 diabetes mellitus,Type 2 diabetes mellitus",
+sideEffects:"Weight gain,Injection site reactions",
+precautions:"Always carry glucose or sugar source",
 category:"Diabetes"
 },
 
 {
 name:"Insulin Aspart",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Dose is individualized based on blood glucose",
+uses:"Used along with long-acting insulin",
+sideEffects:"Low blood sugar (hypoglycemia),Weight gain",
+precautions:"Monitor blood glucose frequently",
 category:"Diabetes"
 },
 
 {
 name:"Pioglitazone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"15 mg or 30 mg once daily",
+uses:"Helps reduce blood sugar levels over long term",
+sideEffects:"Muscle pain,Upper respiratory infection",
+precautions:"Avoid in active bladder cancer,Weight monitoring is important",
 category:"Diabetes"
 },
 
 {
 name:"Vildagliptin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50 mg once or twice daily",
+uses:"Helps control fasting and post-meal blood sugar",
+sideEffects:"Fatigue,Mild gastrointestinal discomfort",
+precautions:"Monitor liver function tests regularly",
 category:"Diabetes"
 },
 
 {
 name:"Gliclazide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"40–80 mg once daily",
+uses:"Stimulating insulin release from pancreatic beta cells",
+sideEffects:"Stomach upset,Headache",
+precautions:"Do not skip meals after taking medicine",
 category:"Diabetes"
 },
 
 {
 name:"Fluconazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50–100 mg once daily",
+uses:"Prevention of fungal infections in low immunity patients",
+sideEffects:"Dizziness,Skin rash",
+precautions:"Long-term use requires liver function monitoring",
 category:"Antifungal"
 },
 
 {
 name:"Ketoconazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"200 mg once daily",
+uses:"Fungal skin infections (tinea infections),Dandruff",
+sideEffects:"Skin irritation,nausea",
+precautions:"Oral ketoconazole should be avoided unless absolutely necessary",
 category:"Antifungal"
 },
 
 {
 name:"Itraconazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"100–200 mg once daily",
+uses:"Skin fungal infections",
+sideEffects:"Diarrhea,Rash",
+precautions:"Not recommended in pregnancy unless essential",
 category:"Antifungal"
 },
 
 {
 name:"Terbinafine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"250 mg once daily",
+uses:"Ringworm (tinea infections),Athlete’s foot,Jock itch",
+sideEffects:"Rash,Taste disturbance (loss or change of taste)",
+precautions:"Stop and consult doctor if symptoms of liver damage appear",
 category:"Antifungal"
 },
 
