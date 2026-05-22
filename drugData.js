@@ -335,73 +335,73 @@ category:"Antibiotics"
 
 {
 name:"Glimepiride",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1–2 mg once daily",
+uses:"Type 2 diabetes mellitus",
+sideEffects:"Low blood sugar (hypoglycemia)",
+precautions:"Avoid alcohol because it may increase risk of low blood sugar",
 category:"Diabetes"
 },
 
 {
 name:"Sitagliptin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"100 mg once daily",
+uses:"Lowering blood sugar levels",
+sideEffects:"Sore throat",
+precautions:"Not used for Type 1 Diabetes mellitus",
 category:"Diabetes"
 },
 
 {
 name:"Losartan",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50 mg once daily",
+uses:"To be addedSometimes used in heart failure.",
+sideEffects:"Dizziness,backpain",
+precautions:"Avoid during pregnancy because it may harm the baby",
 category:"Heart / BP"
 },
 
 {
 name:"Telmisartan",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"40 mg once daily",
+uses:"Protection of kidneys in some diabetic patients",
+sideEffects:"Diarrhea",
+precautions:"Alcohol may increase dizziness and low blood pressure",
 category:"Heart / BP"
 },
 
 {
 name:"Rosuvastatin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5–10 mg once daily",
+uses:"Reduce the risk of heart attack and stroke",
+sideEffects:"Severe muscle pain or dark urine",
+precautions:"Not recommended during pregnancy or breastfeeding",
 category:"Heart / BP"
 },
 
 {
 name:"Rabeprazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"20 mg once daily",
+uses:"Healing of stomach and duodenal ulcers",
+sideEffects:"Nausea or vomiting",
+precautions:"Do not use without medical advice for long duration",
 category:"GI"
 },
 
 {
 name:"Esomeprazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"20–40 mg once daily",
+uses:"Healing of stomach and duodenal ulcers",
+sideEffects:"Abdominal pain",
+precautions:"Use carefully in pregnancy and breastfeeding (only if prescribed)",
 category:"GI"
 },
 
 {
 name:"Domperidone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"10 mg 2–3 times daily",
+uses:"Bloating and fullness after meals",
+sideEffects:"Abdominal cramps,headache",
+precautions:"Avoid in patients with heart disease or arrhythmia",
 category:"GI"
 },
 
