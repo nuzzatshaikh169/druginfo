@@ -690,55 +690,55 @@ category:"Hormones"
 
 {
 name:"Methimazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Graves’ disease",
+uses:"5–30 mg daily",
+sideEffects:"Skin rash or itching",
+precautions:"Report symptoms like fever or sore throat immediately (risk of low white blood cells)",
 category:"Hormones"
 },
 
 {
 name:"Prednisone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5–60 mg daily",
+uses:"Asthma and inflammatory conditions",
+sideEffects:"Increased blood sugar,Stomach irritation",
+precautions:"Avoid close contact with infections while on therapy",
 category:"Steroids"
 },
 
 {
 name:"Dexamethasone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"0.5–10 mg daily",
+uses:"Inflammatory and autoimmune disorders",
+sideEffects:"Increased blood sugar",
+precautions:"Use cautiously in diabetic, hypertensive, and elderly patients",
 category:"Steroids"
 },
 
 {
 name:"Hydrocortisone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"20–30 mg daily",
+uses:"Allergic and inflammatory conditions",
+sideEffects:"Increased appetite,Mood changes",
+precautions:"Monitor blood sugar and blood pressure during long-term use",
 category:"Steroids"
 },
 
 {
 name:"Calcium Carbonate",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"500–1250 mg taken 1–3 times daily",
+uses:"Osteoporosis prevention and treatment",
+sideEffects:"Constipation,Bloating",
+precautions:"Avoid excessive intake to prevent kidney stones or high calcium levels",
 category:"Supplements"
 },
 
 {
 name:"Ferrous Sulfate",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"200–325 mg taken 1–3 times daily",
+uses:"Iron deficiency anemia",
+sideEffects:"Dark-colored stools",
+precautions:"Vitamin C may improve iron absorption",
 category:"Supplements"
 },
 
