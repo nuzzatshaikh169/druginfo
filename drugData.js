@@ -535,55 +535,55 @@ category:"Antifungal"
 
 {
 name:"Acyclovir",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"200–800 mg, 2–5 times daily",
+uses:"Treatment of Herpes Simplex Virus (HSV) infections",
+sideEffects:"Nausea and vomiting",
+precautions:"Maintain adequate hydration during therapy",
 category:"Antiviral"
 },
 
 {
 name:"Valacyclovir",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"500 mg–1 g daily or twice daily",
+uses:"Treatment of herpes simplex infections",
+sideEffects:"Abdominal pain",
+precautions:"Dose adjustment may be required in elderly patients",
 category:"Antiviral"
 },
 
 {
 name:"Oseltamivir",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"500 mg–1 g daily or twice daily",
+uses:"Chickenpox",
+sideEffects:"Abdominal pain",
+precautions:"Maintain proper hydration during treatment",
 category:"Antiviral"
 },
 
 {
 name:"Albendazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"400 mg single dose commonly used for intestinal worms",
+uses:"Treatment of worm infections",
+sideEffects:"Temporary hair loss",
+precautions:"Avoid use during pregnancy, especially first trimester",
 category:"Antiparasitic"
 },
 
 {
 name:"Mebendazole",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"100 mg single dose, may repeat after 2 weeks",
+uses:"Treatment of intestinal worm infections",
+sideEffects:"Dizziness",
+precautions:"Maintain proper hygiene to prevent reinfection",
 category:"Antiparasitic"
 },
 
 {
 name:"Ivermectin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"150–200 mcg/kg as a single oral dose",
+uses:"Fatigue",
+sideEffects:"Skin rash or itching",
+precautions:"Take on an empty stomach with water unless advised otherwise",
 category:"Antiparasitic"
 },
 
@@ -591,100 +591,100 @@ category:"Antiparasitic"
 
 {
 name:"Sertraline",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50–200 mg daily",
+uses:"Depression,Anxiety disorderss",
+sideEffects:"Insomnia or drowsiness",
+precautions:"Avoid alcohol during treatment",
 category:"Mental Health"
 },
 
 {
 name:"Fluoxetine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Usually 20 mg once daily initially",
+uses:"Panic disorder,Bulimia nervosa",
+sideEffects:"Loss of appetite",
+precautions:"Do not stop medication suddenly",
 category:"Mental Health"
 },
 
 {
 name:"Escitalopram",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Usually 5–10 mg once daily initially",
+uses:"Generalized Anxiety Disorder (GAD)",
+sideEffects:"Increased sweating",
+precautions:"Avoid alcohol during treatment",
 category:"Mental Health"
 },
 
 {
 name:"Citalopram",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Usually 20 mg once daily",
+uses:"Obsessive Compulsive Disorder (OCD)",
+sideEffects:"Insomnia,Increased sweating",
+precautions:"Monitor for mood changes or suicidal thoughts",
 category:"Mental Health"
 },
 
 {
 name:"Alprazolam",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Usually 0.25–0.5 mg taken 2–3 times daily",
+uses:"Short-term relief of anxiety symptoms",
+sideEffects:"Poor coordination",
+precautions:"Do not stop suddenly without medical advice",
 category:"Mental Health"
 },
 
 {
 name:"Diazepam",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"2–10 mg, 2–4 times daily",
+uses:"Seizures and epilepsy",
+sideEffects:"Fatigue,Muscle weakness",
+precautions:"Do not stop medication suddenly",
 category:"Mental Health"
 },
 
 {
 name:"Clonazepam",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"0.25–0.5 mg twice daily",
+uses:"Seizure disorders and epilepsy",
+sideEffects:"Memory problems,Difficulty concentrating",
+precautions:"May cause dependence with long-term use",
 category:"Mental Health"
 },
 
 {
 name:"Olanzapine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5–10 mg once daily",
+uses:"Schizophrenia",
+sideEffects:"Increased appetite,Dizziness",
+precautions:"Monitor weight, blood sugar, and cholesterol regularlyd",
 category:"Mental Health"
 },
 
 {
 name:"Risperidone",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1–2 mg daily initially",
+uses:"Schizophrenia",
+sideEffects:"Tremors or muscle stiffness",
+precautions:"Avoid alcohol during treatment",
 category:"Mental Health"
 },
 
 {
 name:"Quetiapine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"25–50 mg daily",
+uses:"Psychotic disorders",
+sideEffects:"Constipation,Fatigue",
+precautions:"Monitor blood sugar, weight, and cholesterol regularly",
 category:"Mental Health"
 },
 
 {
 name:"Levothyroxine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"25–100 mcg once daily",
+uses:"Hypothyroidism",
+sideEffects:"Insomnia,Increased appetite",
+precautions:"Avoid taking with calcium or iron supplements simultaneously",
 category:"Hormones"
 },
 
