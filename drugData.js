@@ -857,91 +857,91 @@ category:"Dermatology"
 
 {
 name:"Mupirocin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Apply a small amount to affected area 2–3 times daily or as prescribed",
+uses:"Infected cuts or wounds",
+sideEffects:"Burning or stinging at application site",
+precautions:"For external use only unless nasal formulation is prescribed",
 category:"Dermatology"
 },
 
 {
 name:"Loperamide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"4 mg initially, then 2 mg after each loose stool",
+uses:"Acute diarrhea,Chronic diarrhea",
+sideEffects:"Constipation,Abdominal cramps",
+precautions:"Avoid use in bloody diarrhea or high fever without medical advice",
 category:"GI"
 },
 
 {
 name:"Mesalamine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"800 mg–1.2 g taken 2–3 times daily",
+uses:"Inflammatory bowel disease (IBD)",
+sideEffects:"Headache,Nausea",
+precautions:"Use cautiously in kidney disease",
 category:"GI"
 },
 
 {
 name:"Bisacodyl",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5–10 mg once daily",
+uses:"Bowel preparation before medical procedures",
+sideEffects:"Abdominal cramps,Diarrhea",
+precautions:"Avoid long-term regular use without medical advice",
 category:"GI"
 },
 
 {
 name:"Sucralfate",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1 g four times daily before meals and at bedtime or as prescribed",
+uses:"Duodenal ulcers,Gastric ulcers",
+sideEffects:"Constipation,Dry mouth",
+precautions:"Usually taken on an empty stomach",
 category:"GI"
 },
 
 {
 name:"Magnesium Hydroxide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"400–1200 mg daily or as prescribed",
+uses:"Relief of acidity and heartburn",
+sideEffects:"Diarrhea,Abdominal cramps",
+precautions:"Avoid excessive or prolonged use without medical advice",
 category:"GI"
 },
 
 {
 name:"Warfarin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"2–10 mg once daily",
+uses:"Prevention and treatment of blood clots",
+sideEffects:"Nosebleeds,Nausea",
+precautions:"Avoid sudden changes in vitamin K–rich foods unless advised",
 category:"Heart / BP"
 },
 
 {
 name:"Clopidogrel",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"75 mg once daily or as prescribed",
+uses:"Prevention of heart attack and stroke",
+sideEffects:"Easy bruising,Stomach pain",
+precautions:"Seek medical help if unusual bleeding or black stools occur",
 category:"Heart / BP"
 },
 
 {
 name:"Digoxin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"0.125–0.25 mg once daily or as prescribed",
+uses:"Heart failure",
+sideEffects:"Slow heartbeat,Visual disturbances (yellow or blurred vision)",
+precautions:"Regular monitoring of digoxin levels may be required",
 category:"Heart / BP"
 },
 
 {
 name:"Furosemide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"20–80 mg once or twice daily or as prescribed",
+uses:"Heart failure,High blood pressure (hypertension)",
+sideEffects:"Frequent urination,Low potassium levels",
+precautions:"Take earlier in the day to reduce nighttime urination",
 category:"Heart / BP"
 },
 
