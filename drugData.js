@@ -1013,8 +1013,6 @@ category:"Heart / BP"
 {name:"Cyclophosphamide",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Oncology"},
 {name:"Cisplatin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Oncology"},
 
-,
-
 {name:"Acyclovir Cream",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Dermatology"},
 {name:"Clobetasol",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Dermatology"},
 {name:"Tacrolimus",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Dermatology"},
