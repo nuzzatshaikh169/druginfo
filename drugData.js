@@ -405,8 +405,6 @@ precautions:"Avoid in patients with heart disease or arrhythmia",
 category:"GI"
 },
 
-,
-
 {
 name:"Atenolol",
 dosage:"25–50 mg once daily",
@@ -587,8 +585,6 @@ precautions:"Take on an empty stomach with water unless advised otherwise",
 category:"Antiparasitic"
 },
 
-,
-
 {
 name:"Sertraline",
 dosage:"50–200 mg daily",
@@ -690,8 +686,8 @@ category:"Hormones"
 
 {
 name:"Methimazole",
-dosage:"Graves’ disease",
-uses:"5–30 mg daily",
+dosage:"5-30 mg daily",
+uses:"Graves’ disease",
 sideEffects:"Skin rash or itching",
 precautions:"Report symptoms like fever or sore throat immediately (risk of low white blood cells)",
 category:"Hormones"
@@ -768,8 +764,6 @@ sideEffects:"To be added",
 precautions:"To be added",
 category:"Supplements"
 },
-
-,
 
 {
 name:"Tamsulosin",
@@ -951,7 +945,6 @@ precautions:"To be added",
 category:"Heart / BP"
 },
 
-,
 
 {name:"Gabapentin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
 {name:"Pregabalin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
