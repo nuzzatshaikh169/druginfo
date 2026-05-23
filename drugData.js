@@ -740,118 +740,118 @@ category:"Supplements"
 
 {
 name:"Vitamin B12",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"500–1000 mcg daily",
+uses:"Treatment and prevention of Vitamin B12 deficiency",
+sideEffects:"Injection site pain (for injections),Rare allergic reactions",
+precautions:"Use cautiously in people with kidney disease",
 category:"Supplements"
 },
 
 {
 name:"Folic Acid",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"400–1000 mcg daily",
+uses:"Prevention and treatment of folic acid deficiency",
+sideEffects:"Bitter taste in mouth,Loss of appetite",
+precautions:"Do not exceed recommended dose without medical advice",
 category:"Supplements"
 },
 
 {
 name:"Zinc Sulfate",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50–220 mg once daily",
+uses:"Treatment and prevention of zinc deficiency",
+sideEffects:"Metallic taste in mouth",
+precautions:"High doses may cause copper deficiency over time",
 category:"Supplements"
 },
 
 {
 name:"Tamsulosin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"0.4 mg once daily",
+uses:"Reduces difficulty in urination and frequent urination",
+sideEffects:"Low blood pressure,Weakness",
+precautions:"Rise slowly from sitting or lying position to avoid dizziness",
 category:"Urology"
 },
 
 {
 name:"Finasteride",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1 mg once daily",
+uses:"Treatment of benign prostatic hyperplasia (BPH)",
+sideEffects:"Decreased libido,Erectile dysfunction",
+precautions:"Results for hair loss may take several months",
 category:"Urology"
 },
 
 {
 name:"Oxybutynin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5 mg 2–3 times daily",
+uses:"Overactive bladder,Frequent urination",
+sideEffects:"Drowsiness,Blurred vision",
+precautions:"Drink enough water and increase fiber intake to prevent constipation",
 category:"Urology"
 },
 
 {
 name:"Tolterodine",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"1–2 mg twice daily or as prescribed",
+uses:"Frequent urination,Urinary urgency",
+sideEffects:"Constipation,Headache",
+precautions:"Drink enough fluids and maintain fiber intake",
 category:"Urology"
 },
 
 {
 name:"Sildenafil",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"50 mg taken about 1 hour before sexual activity",
+uses:"Erectile dysfunction (ED)",
+sideEffects:"Nasal congestion,Indigestion",
+precautions:"Use cautiously in heart disease, liver disease, or low blood pressure",
 category:"Other"
 },
 
 {
 name:"Tadalafil",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"5–20 mg as prescribed",
+uses:"Benign prostatic hyperplasia (BPH)",
+sideEffects:"Muscle aches,Flushing",
+precautions:"Do not use with nitrate medicines for chest pain",
 category:"Other"
 },
 
 {
 name:"Isotretinoin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"0.5–1 mg/kg daily",
+uses:"Severe acne resistant to other treatments",
+sideEffects:"Dry skin and lips,Dry eyes",
+precautions:"Use sunscreen and moisturizers regularly during treatment",
 category:"Dermatology"
 },
 
 {
 name:"Clindamycin",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"150–300 mg every 6–8 hours or as prescribed",
+uses:"Bacterial skin infections,Acne",
+sideEffects:"Diarrhea,Nausea",
+precautions:"Use cautiously in liver disease",
 category:"Dermatology"
 },
 
 {
 name:"Benzoyl Peroxide",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Apply 1–2 times daily on affected skin areas",
+uses:"Helps reduce acne-causing bacteria",
+sideEffects:"Skin dryness,Peeling",
+precautions:"Start with lower concentration to reduce irritation",
 category:"Dermatology"
 },
 
 {
 name:"Adapalene",
-dosage:"To be added",
-uses:"To be added",
-sideEffects:"To be added",
-precautions:"To be added",
+dosage:"Apply a thin layer once daily at night on affected skin areas",
+uses:"Helps prevent pimples, blackheads, and clogged pores",
+sideEffects:"Burning or stinging sensation,Peeling",
+precautions:"Avoid applying on cuts, eczema, or irritated skin",
 category:"Dermatology"
 },
 
