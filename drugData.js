@@ -946,7 +946,7 @@ category:"Heart / BP"
 },
 
 
-{name:"Gabapentin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
+{name:"Gabapentin",dosage:"100–300 mg once daily",uses:"Diabetic nerve pain",sideEffects:"Dizziness,Fatigue",precautions:"Have depression or mental health conditions",category:"Neurology"},
 {name:"Pregabalin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
 {name:"Levetiracetam",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
 {name:"Phenytoin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
