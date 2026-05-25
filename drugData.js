@@ -947,9 +947,9 @@ category:"Heart / BP"
 
 
 {name:"Gabapentin",dosage:"100–300 mg once daily",uses:"Diabetic nerve pain",sideEffects:"Dizziness,Fatigue",precautions:"Have depression or mental health conditions",category:"Neurology"},
-{name:"Pregabalin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
-{name:"Levetiracetam",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
-{name:"Phenytoin",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
+{name:"Pregabalin",dosage:"50–75 mg once or twice daily",uses:"Nerve pain,Partial seizures",sideEffects:"Blurred vision,Weight gain",precautions:"Use alcohol or sleeping medicines",category:"Neurology"},
+{name:"Levetiracetam",dosage:"250–500 mg twice daily",uses:"Juvenile myoclonic epilepsy",sideEffects:"Irritability,Headache",precautions:"Have kidney disease,Have depression or psychiatric illness",category:"Neurology"},
+{name:"Phenytoin",dosage:"100 mg taken 2–3 times daily",uses:"Generalized tonic-clonic seizures",sideEffects:"Nausea,Tremor",precautions:"Have liver disease,Have heart rhythm problems",category:"Neurology"},
 {name:"Carbamazepine",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
 
 {name:"Topiramate",dosage:"To be added",uses:"To be added",sideEffects:"To be added",precautions:"To be added",category:"Neurology"},
